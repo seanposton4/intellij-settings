@@ -4,7 +4,7 @@
     <property name="created">2022-08-29T14:13:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-29T14:16:16</property>
+    <property name="modified">2022-08-29T14:26:10</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1033,22 +1033,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="464958" />
+        <option name="BACKGROUND" value="383a37" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="434e54" />
+        <option name="BACKGROUND" value="2f3a3b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="4b4f52" />
+        <option name="BACKGROUND" value="383045" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="514b50" />
+        <option name="BACKGROUND" value="2b3944" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1063,7 +1063,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="45272f" />
+        <option name="BACKGROUND" value="43272f" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

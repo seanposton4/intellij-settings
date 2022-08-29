@@ -4,7 +4,7 @@
     <property name="created">2022-08-29T14:13:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-29T14:16:16</property>
+    <property name="modified">2022-08-29T14:26:10</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1222,22 +1222,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="414458" />
+        <option name="BACKGROUND" value="333437" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="3e4954" />
+        <option name="BACKGROUND" value="29343b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="464b52" />
+        <option name="BACKGROUND" value="332b45" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="4c4650" />
+        <option name="BACKGROUND" value="253344" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1252,7 +1252,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="41232f" />
+        <option name="BACKGROUND" value="3f232f" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

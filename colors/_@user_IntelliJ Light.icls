@@ -3,7 +3,7 @@
     <property name="created">2022-08-29T14:13:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-29T14:16:16</property>
+    <property name="modified">2022-08-29T14:26:10</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -283,22 +283,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f2f3fa" />
+        <option name="BACKGROUND" value="ffffe7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="edfaf6" />
+        <option name="BACKGROUND" value="efffef" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f8fbf3" />
+        <option name="BACKGROUND" value="ffefff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fff6f0" />
+        <option name="BACKGROUND" value="e9fdfd" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -313,7 +313,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d4b4b4" />
+        <option name="BACKGROUND" value="d8bbbb" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />

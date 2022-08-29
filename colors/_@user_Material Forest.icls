@@ -4,7 +4,7 @@
     <property name="created">2022-08-29T14:13:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-29T14:16:16</property>
+    <property name="modified">2022-08-29T14:26:10</property>
     <property name="originalScheme">Material Forest</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1208,22 +1208,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="26474d" />
+        <option name="BACKGROUND" value="13382a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="224d49" />
+        <option name="BACKGROUND" value="9382f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2b4e47" />
+        <option name="BACKGROUND" value="132f38" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="304a45" />
+        <option name="BACKGROUND" value="63737" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1238,7 +1238,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="2b2525" />
+        <option name="BACKGROUND" value="272626" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

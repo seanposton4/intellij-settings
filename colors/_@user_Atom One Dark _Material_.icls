@@ -4,7 +4,7 @@
     <property name="created">2022-08-29T14:13:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-29T14:16:16</property>
+    <property name="modified">2022-08-29T14:26:10</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1211,22 +1211,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="464b56" />
+        <option name="BACKGROUND" value="383c35" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="435053" />
+        <option name="BACKGROUND" value="2f3c3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="4b5151" />
+        <option name="BACKGROUND" value="383243" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="514d4f" />
+        <option name="BACKGROUND" value="2b3a42" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1241,7 +1241,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="45282d" />
+        <option name="BACKGROUND" value="43282e" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

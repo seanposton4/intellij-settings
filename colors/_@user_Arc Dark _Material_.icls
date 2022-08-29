@@ -4,7 +4,7 @@
     <property name="created">2022-08-29T14:13:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-29T14:16:16</property>
+    <property name="modified">2022-08-29T14:26:10</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1090,22 +1090,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="444a56" />
+        <option name="BACKGROUND" value="363b34" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="414f52" />
+        <option name="BACKGROUND" value="2d3b39" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="4a5050" />
+        <option name="BACKGROUND" value="363142" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="4f4c4e" />
+        <option name="BACKGROUND" value="293941" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1120,7 +1120,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="44272d" />
+        <option name="BACKGROUND" value="41282d" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
