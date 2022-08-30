@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <CssCodeStyleSettings>
-    <option name="VALUE_ALIGNMENT" value="1" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_TEXT" value="true" />
