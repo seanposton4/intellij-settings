@@ -4,9 +4,11 @@
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,*" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,span" />
+    <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
+    <option name="HTML_INLINE_ELEMENTS" value="" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
@@ -46,6 +48,7 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
