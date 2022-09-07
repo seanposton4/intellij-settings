@@ -6,7 +6,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="100" />
   <CssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="2" />
