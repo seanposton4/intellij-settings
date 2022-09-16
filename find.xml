@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/src/styles.sass'" />
-    <option name="defaultScopeName" value="File '…/src/styles.sass'" />
-    <option name="SEARCH_SCOPE" value="File '…/src/styles.sass'" />
+    <option name="customScope" value="Directory '…/src'" />
+    <option name="defaultScopeName" value="Directory '…/src'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/src'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
