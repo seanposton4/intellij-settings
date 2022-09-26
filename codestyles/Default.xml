@@ -6,7 +6,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="100" />
   <CssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="2" />
@@ -18,6 +17,7 @@
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,span" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
     <option name="HTML_INLINE_ELEMENTS" value="" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
@@ -67,6 +67,7 @@
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="OBJECT_LITERAL_WRAP" value="2" />
+    <option name="IMPORTS_WRAP" value="2" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="ALIGN_IMPORTS" value="true" />
     <option name="ALIGN_UNION_TYPES" value="true" />

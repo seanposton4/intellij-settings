@@ -4,7 +4,7 @@
     <property name="created">2022-08-29T12:50:24</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-09-02T07:47:12</property>
+    <property name="modified">2022-09-23T09:04:51</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -41,7 +41,7 @@
     <option name="BookmarkMnemonicIcon.borderColor" value="463564" />
     <option name="BookmarkMnemonicIcon.foreground" value="ffffff" />
     <option name="CARET_COLOR" value="f97e72" />
-    <option name="CARET_ROW_COLOR" value="7059ab66" />
+    <option name="CARET_ROW_COLOR" value="463564" />
     <option name="CONSOLE_BACKGROUND_KEY" value="262335" />
     <option name="DELETED_LINES_COLOR" value="fe4450" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="fede5d" />
@@ -432,6 +432,28 @@
         <option name="FOREGROUND" value="fede5d" />
       </value>
     </option>
+    <option name="CONVENTIONAL_COMMIT_BREAKING_CHANGE">
+      <value>
+        <option name="FOREGROUND" value="fe4450" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONVENTIONAL_COMMIT_FOOTER_TYPE">
+      <value>
+        <option name="FOREGROUND" value="36f9f6" />
+      </value>
+    </option>
+    <option name="CONVENTIONAL_COMMIT_SCOPE">
+      <value>
+        <option name="FOREGROUND" value="ff8b39" />
+      </value>
+    </option>
+    <option name="CONVENTIONAL_COMMIT_TYPE">
+      <value>
+        <option name="FOREGROUND" value="fede5d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="f97e72" />
@@ -638,7 +660,7 @@
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
-        <option name="BACKGROUND" value="34294f" />
+        <option name="BACKGROUND" value="463564" />
         <option name="ERROR_STRIPE_COLOR" value="463564" />
       </value>
     </option>
@@ -1165,7 +1187,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="34294f" />
+        <option name="BACKGROUND" value="463564" />
         <option name="ERROR_STRIPE_COLOR" value="463564" />
       </value>
     </option>
@@ -1245,16 +1267,6 @@
         <option name="BACKGROUND" value="293243" />
       </value>
     </option>
-    <option name="INDENT_RAINBOW_COLOR_5">
-      <value>
-        <option name="BACKGROUND" value="4f3f4d" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_6">
-      <value>
-        <option name="BACKGROUND" value="4f3a4a" />
-      </value>
-    </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="BACKGROUND" value="41222f" />
@@ -1268,7 +1280,9 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="463564" />
+      </value>
     </option>
     <option name="INLAY_DEFAULT">
       <value>
@@ -2084,6 +2098,7 @@
         <option name="FOREGROUND" value="72f1b8" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="36f9f6" />
@@ -2671,7 +2686,7 @@
     </option>
     <option name="SONARLINT_SELECTED">
       <value>
-        <option name="BACKGROUND" value="34294f" />
+        <option name="BACKGROUND" value="463564" />
         <option name="ERROR_STRIPE_COLOR" value="463564" />
       </value>
     </option>
@@ -2868,7 +2883,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="34294f" />
+        <option name="BACKGROUND" value="463564" />
         <option name="ERROR_STRIPE_COLOR" value="463564" />
       </value>
     </option>
