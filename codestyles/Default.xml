@@ -20,4 +20,9 @@
     <option name="KEYWORD_CASE" value="2" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
   </SqlCodeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
