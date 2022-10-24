@@ -1,0 +1,28 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userEnabledRules">
+      <set>
+        <option value="LanguageTool.EN.LOOK_SLIKE" />
+        <option value="LanguageTool.EN.WORD_CONTAINS_UNDERSCORE" />
+        <option value="LanguageTool.EN.TYPO_OR_OF" />
+        <option value="LanguageTool.EN.FLASHPOINT" />
+        <option value="LanguageTool.EN.CAN_NOT" />
+        <option value="LanguageTool.EN.TYPO_AN_AND" />
+        <option value="LanguageTool.EN.APOSTROPHE_PLURAL_" />
+        <option value="LanguageTool.EN.TYPO_ID_IF" />
+        <option value="LanguageTool.EN.TYPO_AS_HAS_WAS" />
+        <option value="LanguageTool.EN.NON_STANDARD_WORD" />
+      </set>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInStringLiteralsEnabled" value="true" />
+        <option name="disabledLanguages">
+          <set>
+            <option value="JavaScript" />
+          </set>
+        </option>
+      </CheckingContext>
+    </option>
+  </component>
+</application>
