@@ -1,10 +1,10 @@
 <scheme name="_@user_Visual Assist Light" version="142" parent_scheme="Visual Assist Light">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-10-27T15:40:34</property>
+    <property name="created">2022-11-01T08:25:05</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-10-27T15:41:10</property>
+    <property name="ideVersion">2022.2.2.0.0</property>
+    <property name="modified">2022-11-01T08:29:25</property>
     <property name="originalScheme">Visual Assist Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
