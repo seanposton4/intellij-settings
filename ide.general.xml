@@ -10,5 +10,6 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="848bbd" />
     <entry key="editor.focus.mode.color.dark" value="848bbd" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
