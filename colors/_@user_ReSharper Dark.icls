@@ -1,10 +1,10 @@
 <scheme name="_@user_ReSharper Dark" version="142" parent_scheme="ReSharper Dark">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-12-12T10:12:03</property>
+    <property name="created">2022-12-12T09:45:17</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-12-12T10:12:53</property>
+    <property name="ideVersion">2022.2.2.0.0</property>
+    <property name="modified">2022-12-12T09:47:03</property>
     <property name="originalScheme">ReSharper Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
