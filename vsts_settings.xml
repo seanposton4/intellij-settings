@@ -12,6 +12,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/seanposton/_git/DadThoughts" />
+          <option name="serverUri" value="https://dev.azure.com/seanposton" />
+          <option name="userId" value="a70483eb-4446-6dcb-a24e-1ce3dafc5478" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;a16bbbf4-74b5-4cf5-94e3-ba1b4cc51897&quot;,&quot;name&quot;:&quot;seanposton&quot;,&quot;url&quot;:&quot;https://dev.azure.com/seanposton/_apis/projectCollections/a16bbbf4-74b5-4cf5-94e3-ba1b4cc51897&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;c718b4a0-cc8e-4730-a047-614dd300f015&quot;,&quot;name&quot;:&quot;DadThoughts&quot;,&quot;revision&quot;:11,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/seanposton/_apis/projects/c718b4a0-cc8e-4730-a047-614dd300f015&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;2f41dd08-d320-4ca8-844d-7235566da0ff&quot;,&quot;name&quot;:&quot;DadThoughts&quot;,&quot;remoteUrl&quot;:&quot;https://seanposton@dev.azure.com/seanposton/DadThoughts/_git/DadThoughts&quot;,&quot;url&quot;:&quot;https://dev.azure.com/seanposton/_apis/git/repositories/2f41dd08-d320-4ca8-844d-7235566da0ff&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;c718b4a0-cc8e-4730-a047-614dd300f015&quot;,&quot;name&quot;:&quot;DadThoughts&quot;,&quot;revision&quot;:11,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/seanposton/_apis/projects/c718b4a0-cc8e-4730-a047-614dd300f015&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/seanposton4" />
           <option name="serverUri" value="https://dev.azure.com/seanposton4" />
           <option name="userId" value="7705df95-643b-6842-9cbf-a6c1804a1e43" />
@@ -24,7 +33,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//dev.azure.com/seanposton" />
+          <option name="value" value="//dev.azure.com/seanposton/_git/dadthoughts" />
         </PropertyState>
       </array>
     </option>
